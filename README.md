@@ -976,6 +976,8 @@ Khammam
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/f90f5b8e-ce2e-4537-9ec7-22eb4e785764)
+
 
 cat forctype.sh 
 ```bash
@@ -990,6 +992,9 @@ $ chmod 755 forctype.sh
 $ ./forctype.sh 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/e7aabd6c-0f20-42ca-be44-b46ee6e89a0d)
+
+
 cat forctype1.sh 
 ```bash
 #!/bin/bash
@@ -1002,6 +1007,8 @@ done
 $ chmod 755 forctype.sh
 $ ./forctype1.sh 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/1c067b24-52be-4da4-9290-e900094936ba)
 
 cat fornested1.sh 
 ```bash
@@ -1041,6 +1048,9 @@ echo "The for loop is completed“
 $ chmod 755 forbreak.sh
  
 $ ./forbreak.sh 
+
+![image](https://github.com/user-attachments/assets/7f973360-b1ec-4447-979e-bc426f52471e)
+
  
 cat forbreak.sh 
 ```bash
@@ -1062,6 +1072,7 @@ $ chmod 755 forcontinue.sh
  
 $ ./forcontinue.sh 
 ## OUTPUT
+
  
 cat exread.sh 
 ```bash
