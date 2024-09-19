@@ -1028,6 +1028,8 @@ $ chmod 755 fornested1.sh
 $ ./fornested1.sh 
  ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/efee456a-8b42-4847-8c50-7391d273bfd0)
+
  
 cat forbreak.sh 
 ```bash
@@ -1045,11 +1047,14 @@ echo "The for loop is completed“
 ```
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/de88b515-cd60-4339-bb58-3472d192bf5a)
+
+
 $ chmod 755 forbreak.sh
  
 $ ./forbreak.sh 
 
-![image](https://github.com/user-attachments/assets/7f973360-b1ec-4447-979e-bc426f52471e)
+![image](https://github.com/user-attachments/assets/6be5233c-8643-4068-b288-fc0ab3bd3438)
 
  
 cat forbreak.sh 
@@ -1073,6 +1078,8 @@ $ chmod 755 forcontinue.sh
 $ ./forcontinue.sh 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/c35bdac2-72cf-4dfe-b794-a20a3cb26917)
+
  
 cat exread.sh 
 ```bash
@@ -1088,6 +1095,8 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/5ed5a6b3-8d04-42e0-8491-28a4372ec8f9)
+
 
  cat exread1.sh
 ```bash
@@ -1100,6 +1109,7 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 
+![image](https://github.com/user-attachments/assets/8be27805-30d8-41de-b802-8deaafe07e2f)
 
 
 $ ./exread1.sh 
@@ -1120,6 +1130,9 @@ echo "Usage: badtest1 a b"
 fi
 ```
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/74b20eab-144c-4e22-8b0c-e6e46216def8)
+
  ./funcex.sh 
 
  
@@ -1137,6 +1150,9 @@ done
 $ chmod 777 argshift.sh
 
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/5a3fc33b-c6fb-412e-ba7a-85df9f12de4c)
+
 $ ./argshift.sh 1 2 3
  
  cat argshift1.sh
@@ -1154,6 +1170,9 @@ done
 ```
 $ chmod 777 argshift.sh
 ## OUTPUT
+
+![image](https://github.com/user-attachments/assets/08549cad-4ed8-47ad-86eb-47adbc6ca62e)
+
 $ ./argshift.sh 1 2 3
  
 cat argshift.sh
@@ -1168,7 +1187,9 @@ set +x
 ```
 ## OUTPUT
  ./argshift.sh 1 2 3
- 
+
+ ![image](https://github.com/user-attachments/assets/a1620bc2-efef-45c9-9cd4-ca1c97156d37)
+
  
 cat > nc.awk
 ```bash
@@ -1199,6 +1220,9 @@ ubcdfghj
 ```
 awk -f nc.awk data.dat
 ## OUTPUT 
+
+![image](https://github.com/user-attachments/assets/fda42f04-3629-443d-965e-d79c765b52f8)
+
  
 cat > palindrome.sh
 ```bash
@@ -1226,6 +1250,9 @@ else
 fi
 ```
 ## OUTPUT 
+
+![image](https://github.com/user-attachments/assets/e7024bb7-0559-4aef-9b88-bcd32cf5674e)
+
 
 
 # RESULT:
